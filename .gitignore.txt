@@ -1,0 +1,27 @@
+# Fichiers compilés
+*.class
+
+# Répertoires NetBeans (build automatique)
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Fichiers de cache
+*.log
+*.bak
+*.tmp
+
+# Fichiers NetBeans spécifiques
+nbproject/private/
+**/nbproject/private/
+
+# Fichiers générés par l'IDE
+*.iml
+*.ipr
+*.iws
+
+# Configuration système
+.DS_Store
+Thumbs.db
